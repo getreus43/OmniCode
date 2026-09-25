@@ -1,0 +1,6 @@
+{
+  "name": "OmniCode Studio",
+  "description": "IDE universal visual y de código con Gemini AI, bloques arrastrables, depurador y control de versiones",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
